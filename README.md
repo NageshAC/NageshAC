@@ -1,4 +1,4 @@
-### Hi there, Rishikesh here
+### Hi there, This is Nagesh.
 - Masters student at Friedrich Alexander University, Erlangen-Nürnberg
 - Interested in CFD, ML and HPC
 - Looking for Werkstudent (Working Student) position in Erlangen-Nürnberg-Fürth Area
@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Xing" src="https://www.pngrepo.com/png/303212/180/xing-icon-logo.png" width="50">](https://www.xing.com/profile/Nagesh_AralaguppeChannabasavanna/)
 
-[<img align="left" alt="Website" src="https://gitforwindows.org/img/git_logo.png" width="50">](https://github.com/NageshAC)
+[<img align="left" alt="Github" src="https://gitforwindows.org/img/git_logo.png" width="50">](https://github.com/NageshAC)
 
 
 <br/>
@@ -57,6 +57,6 @@
 
 <img alt="VSCode" style="color:orange" align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30"/>
 
+<img alt="Thrust" align="left" src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/Thrust_newlogo3.JPG" width="50"/>
 
-
-
+<img alt="Markdown" align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
