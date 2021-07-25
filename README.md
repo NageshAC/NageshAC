@@ -9,7 +9,7 @@
 
 [<img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?"  width="50" />](https://www.linkedin.com/in/nagesh-a-c/)
 
-[<img align="left" alt="Xing" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" width="50">](https://www.xing.com/profile/Nagesh_AralaguppeChannabasavanna/)
+[<img align="left" alt="Xing" src="https://mpng.subpng.com/20180711/gxb/kisspng-computer-icons-xing-social-network-xing-logo-5b45ed8207a647.1291410315313094420313.jpg" width="50">](https://www.xing.com/profile/Nagesh_AralaguppeChannabasavanna/)
 
 [<img align="left" alt="Website" src="https://gitforwindows.org/img/git_logo.png" width="50">](https://github.com/NageshAC)
 
