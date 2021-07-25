@@ -7,7 +7,7 @@
 
 ### Social:
 
-[<img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?"  width="50" />](https://www.linkedin.com/in/nagesh-a-c/)
+[<img align="left" alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png"  width="50" />](https://www.linkedin.com/in/nagesh-a-c/)
 
 [<img align="left" alt="Xing" src="https://www.pngrepo.com/png/303212/180/xing-icon-logo.png" width="50">](https://www.xing.com/profile/Nagesh_AralaguppeChannabasavanna/)
 
