@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Xing" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" width="25">](https://www.xing.com/profile/Nagesh_AralaguppeChannabasavanna/)
 
-[<img align="left" alt="Website" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="25">](https://github.com/NageshAC)
+[<img align="left" alt="Website" src="https://gitforwindows.org/img/git_logo.png" width="25">](https://github.com/NageshAC)
 
 
 <br/>
